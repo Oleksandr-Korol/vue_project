@@ -1,0 +1,37 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/macbook/Documents/Nuxt/nuxt-crash-course/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_4e9e6ff8"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/macbook/Documents/Nuxt/nuxt-crash-course/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_37fdedd4"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "/Users/macbook/Documents/Nuxt/nuxt-crash-course/pages/users/index.vue",
+    "chunkName": "pages/users/index",
+    "_name": "_e3282d94"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id",
+    "component": "/Users/macbook/Documents/Nuxt/nuxt-crash-course/pages/users/_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_6f2ec11e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/macbook/Documents/Nuxt/nuxt-crash-course/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6e564abd"
+  }
+]
